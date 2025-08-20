@@ -27,9 +27,8 @@ Delhi Metro Rail Corporation (DMRC) – ED/IT Intern (Jun–Aug 2024)
 
 Featured Projects  
 - Resume Optimizer Agent → Streamlit app using Mistral AI to tailor resumes, score them, and generate interview prep Q&A. [🔗 Repo](https://github.com/monit-jangir/resume-optimizer)  
+- UAV Fog Deployment Research → Optimizing UAV-based fog computing for critical rescue operations.
 - IoT Wheelchair Safety System → IoT-enabled monitoring + alerting for wheelchair safety.  
-- UAV Fog Deployment Research → Optimizing UAV-based fog computing for critical rescue operations.  
-- Apache Log Analytics Dashboard → Python + Power BI dashboard for system visibility.  
 
 
 
