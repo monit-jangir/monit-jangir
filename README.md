@@ -1,4 +1,4 @@
-Hi, I’m Monit Kumar Jangir  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Monit+Kumar+Jangir" alt="Typing SVG" /></a>
 
 B.Tech CSE (IoT & Intelligence) | Manipal University Jaipur (2021–2025)  
 📍 Jaipur, India  
