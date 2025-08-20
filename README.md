@@ -3,8 +3,6 @@ Hi, I’m Monit Kumar Jangir
 B.Tech CSE (IoT & Intelligence) | Manipal University Jaipur (2021–2025)  
 📍 Jaipur, India  
 
-![Banner](https://i.imgur.com/zY4j4T0.gif) <!-- You can replace with your own banner/GIF -->
-
 
 
 About Me  
@@ -40,18 +38,6 @@ Featured Projects
 - Build 5–6 strong projects in AI  
 - Contribute to open-source GenAI tools 
 - Land my first Data/AI role in the industry  
-
-
-GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monit-jangir&show_icons=true&theme=radical" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monit-jangir&layout=compact&theme=radical" height="160">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monit-jangir&theme=radical" height="160">
-</p>
-
 
 
 Let’s Connect!  
