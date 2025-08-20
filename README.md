@@ -10,7 +10,7 @@ I’m a tech enthusiast and builder passionate about Data Analytics, AI-powered 
 I love solving real-world problems with Python, AI/LLMs, and Data Visualization while exploring how Generative AI can transform productivity and decision-making.  
 
 
-🛠 Skills  
+Skills  
 - Languages: Python, C, Bash  
 - Web: HTML, CSS  
 - Data Analytics & Visualization: Power BI, Excel  
@@ -18,10 +18,9 @@ I love solving real-world problems with Python, AI/LLMs, and Data Visualization 
 - AI & ML: OpenAI API, LangChain, LLMs, Prompt Engineering, Gen AI, Agentic AI  
 - Tools & Frameworks: VSCode, Jupyter Notebook, Streamlit, Gradio, Figma, GitHub, Web Scraping, n8n  
 
----
 
 Experience  
-Delhi Metro Rail Corporation (DMRC) – ED/IT Intern** *(Jun–Aug 2024) 
+Delhi Metro Rail Corporation (DMRC) – ED/IT Intern (Jun–Aug 2024) 
 - Built real-time dashboardsin Python, Power BI, and Dash to analyze Apache logs, improving system monitoring.  
 - Reduced resource utilization by 20% via optimized queries and data transformations.  
 - Designed a security monitoring system to flag suspicious user behavior in real-time.  
