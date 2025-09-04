@@ -11,8 +11,8 @@ I love solving real-world problems with Python, AI/LLMs, and Data Visualization 
 
 
 Skills  
-- Languages: Python, C, Bash  
-- Web: HTML, CSS  
+- Languages: Python
+- Web: HTML, CSS 
 - Data Analytics & Visualization: Power BI, Excel  
 - Databases: MySQL, MongoDB  
 - AI & ML: OpenAI API, LangChain, LLMs, Prompt Engineering, Gen AI, Agentic AI  
