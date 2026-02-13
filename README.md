@@ -2,9 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi%2C+I'm+Monit+Kumar+Jangir;AI+%7C+Data+Analytics+%7C+Full-Stack+AI+Builder" alt="Typing SVG" />
 </a>
 
-🎓 B.Tech (CSE - IoT & Intelligence), Manipal University Jaipur (2021–2025)  
-📍 Jaipur, India  
-📧 monit.j@outlook.com  
+B.Tech (CSE - IoT & Intelligence), Manipal University Jaipur (2021–2025)  
+📍 Jaipur, India  📧 monit.j@outlook.com  
 
 [![Portfolio](https://img.shields.io/badge/Visit-AI%20Portfolio-blue?style=for-the-badge)](https://monit-portfolio.vercel.app)
 
@@ -15,10 +14,11 @@
 AI-focused developer and Data Analytics enthusiast building intelligent, real-world systems.
 
 I specialize in:
-- AI-powered applications using LLMs
-- Resume & productivity automation tools
 - Data analytics dashboards
+- AI-powered applications using LLMs
 - IoT and distributed systems research
+- Resume & productivity automation tools
+
 
 Strong focus on practical deployment, clean architecture, and measurable business impact.
 
@@ -29,8 +29,8 @@ Strong focus on practical deployment, clean architecture, and measurable busines
 Delhi Metro Rail Corporation (DMRC) – ED/IT Intern  
 📍 New Delhi | Jun 2024 – Aug 2024  
 
-- Built real-time dashboards (Python / Power BI / Dash) for Apache log analytics  
 - Reduced resource utilization by 20% via optimized queries & transformations  
+- Built real-time dashboards (Python / Power BI / Dash) for Apache log analytics  
 - Developed heuristic-based security alert system for proactive threat detection  
 
 ---
@@ -38,8 +38,8 @@ Delhi Metro Rail Corporation (DMRC) – ED/IT Intern
 ### Växa House LLP – Business Analysis Intern  
 📍 Jaipur | Sep 2025 – Nov 2025  
 
-- Conducted EDA to uncover business performance insights  
 - Cleaned & transformed datasets for reliability  
+- Conducted EDA to uncover business performance insights   
 - Built dashboards and stakeholder reports for decision-making  
 
 ---
