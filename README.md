@@ -2,7 +2,7 @@
 
 B.Tech CSE (IoT & Intelligence) | Manipal University Jaipur '25
 
-https://monit-portfolio.vercel.app
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://monit-portfolio.vercel.app)
 
 📍 Jaipur, India  
 
