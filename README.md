@@ -1,5 +1,6 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi%2C+I'm+Monit+Kumar+Jangir;AI+%7C+Data+Analytics+%7C+Full-Stack+AI+Builder" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=000000&width=700&lines=Hi%2C+I'm+Monit+Kumar+Jangir;Applied+AI+Engineer+%7C+LLM+Systems+%7C+Automation" alt="Typing SVG" />
+
 </a>
 
 B.Tech (CSE - IoT & Intelligence), Manipal University Jaipur (2021–2025)  
@@ -46,13 +47,13 @@ Delhi Metro Rail Corporation (DMRC) – ED/IT Intern
 
 ## Featured Projects
 
-## Resume Optimizer Agent | Live | GitHub  
+## Resume Optimizer Agent 
 Streamlit-based AI system using Mistral API to tailor resumes to job descriptions, score quality, and generate interview prep Q&A.  
 Tech: Python, Streamlit, Mistral API, PyMuPDF, ReportLab  
 
 ---
 
-## AI-Native Conversational Portfolio | Live | GitHub  
+## AI-Native Conversational Portfolio 
 Interactive AI portfolio with tool-calling AI agent built using Mistral + Vercel AI SDK.  
 Tech: Next.js, TypeScript, Tailwind CSS, Framer Motion  
 
