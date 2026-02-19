@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=000000&width=700&lines=Hi%2C+I'm+Monit+Kumar+Jangir;Applied+AI+Engineer+%7C+LLM+Systems+%7C+Automation" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=FF0000&width=700&lines=Hi%2C+I'm+Monit+Kumar+Jangir;Applied+AI+Engineer+%7C+LLM+Systems+%7C+Automation" alt="Typing SVG" />
 
 </a>
 
